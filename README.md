@@ -1,3 +1,4 @@
+# handwriting-digit-recognizer
 This is a handwriting digit recognition program that uses Deep Learning (Convolutional Neural Networks) with PyTorch to classify images
 of handwritten digits (0–9). The model is trained on the MNIST dataset, achieving ~98–99% accuracy, and includes an interactive mode that
 allows users to upload their own handwritten digit images for real-time identification.
